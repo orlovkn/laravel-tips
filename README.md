@@ -10,13 +10,14 @@
 - [Collections](Collections.md)
 - [Artisan](Artisan.md)
 - [Factories](Factories.md)
+- [Log, Debug and Ray](Log_Debug_and_Ray.md)
 - [Other](Other.md)
 
 ## Other docs
 - [Laravel & PHP Style Guide](Laravel_And_PHP_Style_Guide.md)
 - [PHP Tips](PHP.md)
 - [Clean Code](Clean_Code.md)
-- [Log, Debug and Ray](Log_Debug_and_Ray.md)
+- [Spatie. Laravel And PHP](https://github.com/spatie/spatie.be/blob/main/resources/views/front/pages/guidelines/pages/laravel-php.md)
 
 ## Links
 - [Tips from LaravelDaily](https://github.com/LaravelDaily/laravel-tips)

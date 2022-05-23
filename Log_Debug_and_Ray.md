@@ -2,6 +2,8 @@
 
 ⬆️ [Go to main menu](README.md#laravel-tips)
 
+* [https://spatie.be/docs/ray/v1/configuration/laravel](Config for Laravel)
+* [https://spatie.be/docs/ray/v1/usage/laravel](The whole info for Laravel)
 
 ### Showing the table with the times in Ray
 ```php
